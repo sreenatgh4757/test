@@ -1,2 +1,4 @@
 This is my first git
 hello how u doing bro
+just be cool
+learn aws training 
