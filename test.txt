@@ -1,3 +1,9 @@
 This is my first git
+<<<<<<< HEAD
 hello how u doing
 learn aws course
+=======
+hello how u doing bro
+just be cool
+learn aws training 
+>>>>>>> devops
